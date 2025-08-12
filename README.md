@@ -9,7 +9,8 @@ We use unsupervised learning to discover patient trajectory clusters and apply s
 
 ## 📚 Dataset
 
-**Source**: [OASIS-3 Longitudinal Dataset]([https://www.oasis-brains.org/](https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers))
+**Source**: [[OASIS-3 Longitudinal Dataset]([https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers])
+](https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers)
 
 **Biomarkers used**:
 - `CDR` – Clinical Dementia Rating
